@@ -1,0 +1,11 @@
+{
+    "description": "My homelab",
+    "repo": "https://github.com/phoenixliverpool",
+    "owner": {
+        "username": "phoenixliverpool",
+        "email": "scouse-phoenix@proton.me"
+    },
+    "record": {
+        "A": ["77.68.25.212"]
+    }
+}
